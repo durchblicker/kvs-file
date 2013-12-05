@@ -20,7 +20,8 @@
     "url": "https://github.com/pipobscure/kvs-file/issues"
   },
   "dependencies": {
-    "kvs-abstract": "~0.1.0"
+    "kvs-abstract": "~0.1.0",
+    "mkdirp": "~0.3.5"
   },
   "devDependencies": {
     "joi": "~2.0.3",
