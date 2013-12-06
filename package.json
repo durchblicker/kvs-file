@@ -1,6 +1,6 @@
 {
   "name": "kvs-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Using the FileSystem for a KVS",
   "main": "file.js",
   "scripts": {

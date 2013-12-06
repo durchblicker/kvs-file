@@ -5,6 +5,7 @@
 'use strict';
 
 module.exports = FileSystem;
+module.exports.kvt = 'store';
 
 var Abstract = require('kvs-abstract');
 var fs = require('fs');
